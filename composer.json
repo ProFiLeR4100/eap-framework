@@ -1,0 +1,21 @@
+{
+    "name": "profiler4100/eap-framework",
+    "description": "PHP EAP Framework",
+    "type": "yii2-extension",
+    "keywords": ["some","keyworkds"],
+    "license": "GPL-3.0",
+    "authors": [
+        {
+            "name": "ProFiLeR",
+            "email": "profiler4100v2@gmail.com"
+        }
+    ],
+    "require": {
+        "yiisoft/yii2": "*"
+    },
+    "autoload": {
+        "psr-4": {
+            "profiler4100\\eapFramework\\": ""
+        }
+    }
+}
